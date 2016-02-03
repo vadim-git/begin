@@ -1,0 +1,2 @@
+git remote add origin https://github.com/vadim-git/begin.git
+git push -u origin master
