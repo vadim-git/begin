@@ -1,3 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>Begin page</title>
+</head>
+<body>
+
 <?php
 
 abstract class transport {
@@ -82,3 +89,5 @@ echo "</pre>";*/
 
 
 ?>
+</body>
+</html>
